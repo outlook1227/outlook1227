@@ -19,4 +19,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / PYTHON
 - ⚡ Fun fact: ...
 -->
 
+### Connect with me
+![image](https://user-images.githubusercontent.com/73741677/168469494-241016c1-5a9a-44f2-9101-a58d878f3f31.png)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outlook1227&show_icons=true&theme=dark)
