@@ -4,7 +4,7 @@
 
 ##Skills of Experience 
 * 
-I'm Đỗ Đức Tiến from Hanoi - Vietnam 🇻🇳 and I do content for Web Programming and Data Science!
+I'm Đỗ Đức Tiến from Hanoi - Vietnam 🇻🇳 and I do content for Web Programming, Application Software and Data Science!
 
 Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / PYTHON
 
