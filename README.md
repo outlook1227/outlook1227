@@ -17,15 +17,22 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / PYTHON
 - ⚡ Fun fact: ...
 
 -->
-### Connect with me
-<img align="left" alt="YouTube" width="35px" src="https://user-images.githubusercontent.com/73741677/168469494-241016c1-5a9a-44f2-9101-a58d878f3f31.png"/>
-<img align="left" alt="YouTube" width="35px" src="https://user-images.githubusercontent.com/73741677/168469719-59a59aa9-99eb-4954-ac74-8ff8416831d2.png"/>
-<img align="left" alt="YouTube" width="35px" src="https://user-images.githubusercontent.com/73741677/168469761-6b1e13f9-ff79-4459-a411-95e94e6864dd.png"/>
-<img align="left" alt="YouTube" width="35px" src="https://user-images.githubusercontent.com/73741677/168469802-5f836b94-32bf-4ed2-b628-919444452849.png"/>
-<img align="left" alt="YouTube" width="35px" src="https://user-images.githubusercontent.com/73741677/168469827-42c7136e-3d44-4245-a5e3-81960f7cf136.png"/>
-<img align="left" alt="YouTube" width="35px" src="https://user-images.githubusercontent.com/73741677/168469839-af0ce893-4e1b-424c-87b4-b840be618006.png"/>
 
-<br />
-<br />
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/DucTien1227/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tiendo2k1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/notifications/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/12803955/%c4%90%e1%bb%97-%c4%90%e1%bb%a9c-ti%e1%ba%bfn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/TienDo1227) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC-M2sg5YqXjMzX9Kt_USyOA) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outlook1227&show_icons=true&theme=dark)
+# 💻Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=outlook1227&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=outlook1227&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=outlook1227&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=outlook1227&icon=0&color=0)](https://visitcount.itsvg.in)
