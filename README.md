@@ -1,5 +1,5 @@
 ### Hi there 👋, Đỗ Đức Tiến
-#### I am GitHub Readme Generator's creator
+#### I'm a coder and developer!
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Đỗ Đức Tiến from Hanoi - Vietnam 🇻🇳 and I do content for Web Programming and Data Science!
