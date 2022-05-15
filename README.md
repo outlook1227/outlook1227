@@ -27,5 +27,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / PYTHON
 <img align="left" alt="YouTube" width="35px" src="https://user-images.githubusercontent.com/73741677/168469839-af0ce893-4e1b-424c-87b4-b840be618006.png"/>
 
 <br />
-<br />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=outlook1227&show_icons=true&theme=dark)
