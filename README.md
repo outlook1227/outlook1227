@@ -31,8 +31,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / PYTHON
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Dev Meme
+### 😂Dev Meme 1
 <img src="https://pbs.twimg.com/media/EZtcP-8UMAAXeA5?format=png&name=900x900" width="512px"/>
 
+### 😂Dev Meme 2
+<img src="https://drive.google.com/drive/folders/18k-47CsfY7T_HhySJWLMYylWb5mGFISc" width="512px>
 ---
 [![](https://visitcount.itsvg.in/api?id=outlook1227&icon=0&color=0)](https://visitcount.itsvg.in)
