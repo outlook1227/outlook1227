@@ -35,6 +35,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / PYTHON
 <img src="https://pbs.twimg.com/media/EZtcP-8UMAAXeA5?format=png&name=900x900" width="512px"/>
 
 ### 😂Dev Meme 2
-<img src="https://user-images.githubusercontent.com/73741677/168634688-f48f6418-c17d-4619-8a1b-4d0d5813bca8.png" width="512px>
+<img src="https://user-images.githubusercontent.com/73741677/168634688-f48f6418-c17d-4619-8a1b-4d0d5813bca8.png" width="512"px>
 ---
 [![](https://visitcount.itsvg.in/api?id=outlook1227&icon=0&color=0)](https://visitcount.itsvg.in)
