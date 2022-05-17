@@ -6,8 +6,8 @@
 * I'm Đỗ Đức Tiến from Hanoi - Vietnam <img src="https://img.icons8.com/color/96/000000/vietnam.png" width="19.75px"/>
 and I do content for Web Programming, Application Software and Data Science!
 
-Skills: VUE JS / REACT / JS / HTML / CSS / JAVA <img src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png" width="18px"/>/ PYTHON <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons-4.png" width="19.75px"/>
 
+### About me
 - 🔭 I’m currently working on Visual Studio Code <img src="https://img.icons8.com/nolan/512/visual-studio-code-2019.png" width="19.75px"/>
 - 🌱 I’m currently learning Java <img src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo--v1.png" width="18px"/>and Python <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-python-mobile-app-development-flaticons-lineal-color-flat-icons-4.png" width="19.75px"/> for my project in the future
 - 👯 I’m looking to collaborate on ...
