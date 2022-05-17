@@ -7,7 +7,7 @@
 
 Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / PYTHON
 
-- 🔭 I’m currently working on Visual Studio Code <img src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" width="25px"/>
+- 🔭 I’m currently working on Visual Studio Code <img src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" width="20px"/>
 - 🌱 I’m currently learning Java and Python for my project in the future
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
